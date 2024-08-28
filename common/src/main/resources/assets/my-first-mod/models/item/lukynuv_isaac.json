@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "my-first-mod:item/lukynuv_isaac"
-  }
-}
